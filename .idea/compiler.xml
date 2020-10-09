@@ -9,6 +9,7 @@
         <module name="api" />
         <module name="consumer" />
         <module name="provider" />
+        <module name="providerzk" />
       </profile>
     </annotationProcessing>
   </component>
